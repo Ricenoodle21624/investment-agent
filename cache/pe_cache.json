@@ -1,0 +1,178 @@
+{
+  "NVDA": {
+    "data": {
+      "trailing_pe": 31.83,
+      "forward_pe": 23.75,
+      "peg": 0.641
+    },
+    "timestamp": "2026-06-12"
+  },
+  "MSFT": {
+    "data": {
+      "trailing_pe": 24.01,
+      "forward_pe": 20.75,
+      "peg": 1.244
+    },
+    "timestamp": "2026-06-12"
+  },
+  "AMZN": {
+    "data": {
+      "trailing_pe": 31.63,
+      "forward_pe": 31.15,
+      "peg": 1.834
+    },
+    "timestamp": "2026-06-12"
+  },
+  "GOOGL": {
+    "data": {
+      "trailing_pe": 27.78,
+      "forward_pe": 25.84,
+      "peg": 1.434
+    },
+    "timestamp": "2026-06-12"
+  },
+  "META": {
+    "data": {
+      "trailing_pe": 21.27,
+      "forward_pe": 18.62,
+      "peg": 0.846
+    },
+    "timestamp": "2026-06-12"
+  },
+  "AVGO": {
+    "data": {
+      "trailing_pe": 61.71,
+      "forward_pe": 33.9,
+      "peg": 0.713
+    },
+    "timestamp": "2026-06-12"
+  },
+  "AMD": {
+    "data": {
+      "trailing_pe": 158.5,
+      "forward_pe": 68.03,
+      "peg": 1.144
+    },
+    "timestamp": "2026-06-12"
+  },
+  "TSM": {
+    "data": {
+      "trailing_pe": 36.76,
+      "forward_pe": 27.47,
+      "peg": 1.334
+    },
+    "timestamp": "2026-06-12"
+  },
+  "ASML": {
+    "data": {
+      "trailing_pe": 59.52,
+      "forward_pe": 48.31,
+      "peg": 2.627
+    },
+    "timestamp": "2026-06-12"
+  },
+  "ANET": {
+    "data": {
+      "trailing_pe": 52.29,
+      "forward_pe": 42.19,
+      "peg": 1.957
+    },
+    "timestamp": "2026-06-12"
+  },
+  "00700.HK": {
+    "data": {
+      "trailing_pe": null,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-12"
+  },
+  "09988.HK": {
+    "data": {
+      "trailing_pe": null,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-12"
+  },
+  "01810.HK": {
+    "data": {
+      "trailing_pe": null,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-12"
+  },
+  "0700.HK": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": null,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-15"
+  },
+  "9988.HK": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": null,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-15"
+  },
+  "1810.HK": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": null,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-15"
+  },
+  "sh600519": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": 19.52,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-14"
+  },
+  "sz000858": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": 24.62,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-14"
+  },
+  "sz300750": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": 23.13,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-14"
+  },
+  "sh688041": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": 238.73,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-14"
+  },
+  "sh603019": {
+    "source": "sina/tencent",
+    "data": {
+      "trailing_pe": 54.2,
+      "forward_pe": null,
+      "peg": null
+    },
+    "timestamp": "2026-06-14"
+  }
+}
